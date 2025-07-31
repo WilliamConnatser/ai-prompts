@@ -1,17 +1,17 @@
-Improve the following code block using the process below:
+Improve the following code block:
 
-1. Identify Enhancements:
+- Identify Enhancements:
 
-   1. List 5–7 potential enhancements (consider readability, performance, error handling, type safety, and documentation).
-   2. Present each suggestion as a bullet point.
+  - List 5–7 potential improvements (readability, performance, error handling, type safety, documentation, etc).
+  - Present each as a brief one sentence bullet point.
 
-2. Prioritization:
+- Prioritization:
 
-   1. Identify the 1–2 enhancements that would most improve the code quality.
-   2. Provide a brief justification for your choice.
+  - Choose the top 1–2 enhancements.
+  - Briefly justify your choices.
 
-3. Enhanced Code:
-   1. Produce an updated version of the code block that incorporates these enhancements.
-   2. Annotate your changes with brief comments explaining the modifications.
+- Enhanced Code:
+  - Provide an updated version of the code block with these enhancements.
+  - Annotate your changes with brief inline comments.
 
-Now, enhance the following code:
+Code:

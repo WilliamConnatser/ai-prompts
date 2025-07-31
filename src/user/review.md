@@ -1,18 +1,18 @@
-Review the following code snippet by following these steps:
+Review the following TypeScript code snippet:
 
-1. Broad Analysis:
+- Broad Analysis:
 
-   1. Identify 5–7 potential issues regarding style, type safety, modularity, performance, or documentation.
-   2. List each issue as a separate bullet point.
+  - List 5–7 potential issues (consider style, type safety, modularity, performance, and documentation).
+  - Use a bullet point for each issue.
 
-2. Critical Issue Distillation
+- Critical Issue Distillation:
 
-   1. From your analysis, select the 1–2 most critical issues that need immediate attention.
-   2. Briefly explain why these issues are prioritized.
+  - Select the top 1–2 issues needing immediate attention.
+  - Provide a brief explanation of why these are critical.
 
-3. Actionable Recommendations:
+- Actionable Recommendations:
 
-   1. Provide clear, actionable fixes or suggestions for the prioritized issues.
-   2. Include short code examples (only the relevant parts, with a couple of lines of context) where appropriate.
+  - Suggest clear fixes or improvements.
+  - Include short code examples (only the affected lines with minimal context) where useful.
 
-Now, review the following code:
+Code:

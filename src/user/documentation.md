@@ -1,17 +1,15 @@
-Enhance the documentation for the following function or class using the steps below:
+Enhance the documentation for the following TypeScript function or method using the guidelines below:
 
-1. Documentation Needs Assessment:
+- Before writing the documentation understand the function or method being documented:
 
-   1. Identify 5–7 key documentation gaps (e.g., purpose, parameters, return type, usage examples, edge cases).
-   2. List each documentation need as a bullet point.
+  - Read the function or method to understand its purpose and what it does.
+  - I may have provided additional context which can aid you in understanding.
 
-2. Prioritization:
+- After understanding its purpose and what the method or function does:
 
-   1. Determine the 1–3 most impactful documentation improvements.
-   2. Briefly discuss the pros and cons of addressing these areas.
+  - Generate concise JSDoc-style documentation covering the prioritized areas.
+  - Present the high-level breakdown as succinctly as possible in Jsdoc descriptions in a bulleted list.
+  - Include descriptions, parameter types, return types, and examples as appropriate.
+  - Remember that it's hard to be too concise as documentation is tech debt.
 
-3. Updated Documentation:
-   1. Generate clear, concise JSDoc-style documentation that covers the prioritized areas.
-   2. Ensure your documentation includes descriptions, parameter types, return types, and usage examples where applicable.
-
-Now, update the documentation for the following:
+Code:
